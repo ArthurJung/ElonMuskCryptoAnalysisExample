@@ -1,0 +1,9 @@
+How Elon Musk affects the Crpytocurrency market
+
+In this Data Analysis Project I am going to be looking at Elon Musks Tweets from 2019 and 2020 alongside 
+trading data for the cryptocurrency DogeCoin.
+
+First I will read in and clean the tweets from Elon Musk, and then extract his tweets where he talks about DogeCoin.
+
+I will then read in and clean the DogeCoin trading data, merge these datasets for 2019 and 2020 respectivley, 
+and plot graphs to visualise how Elon Musks tweets affect these markets.
